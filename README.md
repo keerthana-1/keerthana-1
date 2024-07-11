@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthana-1" alt="keerthana-1" /></a> </p>
 
-- 🔭 I’m currently working on a **Deep Learning Project**
+- 🔭 I’m currently working on a **Single Page React Application**
 
-- 🌱 I’m currently learning **LLM's**
+- 🌱 I’m currently learning **React and Kubernetes**
 
-- 💬 Ask me about **Java, Python, Web development, MachineLearning, Deep Learning, NLP**
+- 💬 Ask me about **Java, Python, Web development (MERN), MachineLearning, Deep Learning, NLP**
 
 - 💻 My expertise spans a variety of programming languages and technologies, including:
 
   * Languages: Java, Python, C#, JavaScript
   * Databases: MySQL, SQL Server, MongoDB, Vector Databases
-  * Technologies: Data Structures, Problem Solving, OOP, Software Design Patterns, Machine Learning, Deep Learning, Neural Networks, NLP, AWS Sagemaker, Git, REST API
+  * Technologies: Data Structures, Problem Solving, OOP, Software Design Patterns, Web Development, Machine Learning, Deep Learning, Neural Networks, NLP, AWS Sagemaker, Git, REST API
 
 - 📫 Reach me at **keerthanalakshmi01@gmail.com**
 <hr>
